@@ -1,0 +1,337 @@
+{
+  "swiperImgs": ["./img/swiper-1.jpg", "./img/swiper-2.jpg", "./img/swiper-3.jpg", "./img/swiper-4.jpg", "./img/swiper-5.jpg", "./img/swiper-6.jpg", "./img/swiper-7.jpg", "./img/swiper-8.jpg"],
+  "activityData": ["./img/520-1.gif", "./img/520-2.gif", "./img/520-3.gif"],
+  "dataSource": [
+    {
+      "id": "1",
+      "icon": "./img/jingDongChaoShi.png",
+      "title": "京东超市"
+    },
+    {
+      "id": "2",
+      "icon": "./img/jingDongDaoJia.png",
+      "title": "京东到家"
+    },
+    {
+      "id": "3",
+      "icon": "./img/jingDongFuShi.png",
+      "title": "京东服饰"
+    },
+    {
+      "id": "4",
+      "icon": "./img/jingDongShengXian.png",
+      "title": "京东生鲜"
+    },
+    {
+      "id": "5",
+      "icon": "./img/jingDongPinGou.png",
+      "title": "拼购"
+    },
+    {
+      "id": "6",
+      "icon": "./img/haiTunQuanQiu.png",
+      "title": "海豚全国"
+    },
+    {
+      "id": "7",
+      "icon": "./img/jingDongShengXian.png",
+      "title": "京东生鲜"
+    },
+    {
+      "id": "8",
+      "icon": "./img/jingDongPinGou.png",
+      "title": "拼购"
+    },
+    {
+      "id": "9",
+      "icon": "./img/chongZhiJiaoFei.png",
+      "title": "充值"
+    },
+    {
+      "id": "10",
+      "icon": "./img/lingJuan.png",
+      "title": "领券"
+    }
+  ],
+  "seconds": [
+    {
+      "id": 1,
+      "icon": "./img/jingDongMiaoSha-1.jpg",
+      "oldPrice": "199.5",
+      "price": "99"
+    },
+    {
+      "id": 2,
+      "icon": "./img/jingDongMiaoSha-2.jpg",
+      "oldPrice": "199",
+      "price": "99.0"
+    },
+    {
+      "id": 3,
+      "icon": "./img/jingDongMiaoSha-3.jpg",
+      "oldPrice": "199",
+      "price": "99"
+    },
+    {
+      "id": 1,
+      "icon": "./img/jingDongMiaoSha-1.jpg",
+      "oldPrice": "199",
+      "price": "99"
+    },
+    {
+      "id": 4,
+      "icon": "./img/jingDongMiaoSha-4.jpg",
+      "oldPrice": "199",
+      "price": "99"
+    },
+    {
+      "id": 5,
+      "icon": "./img/jingDongMiaoSha-5.jpg",
+      "oldPrice": "199",
+      "price": "99"
+    },
+    {
+      "id": 6,
+      "icon": "./img/jingDongMiaoSha-6.jpg",
+      "oldPrice": "199",
+      "price": "99"
+    },
+    {
+      "id": 7,
+      "icon": "./img/jingDongMiaoSha-7.jpg",
+      "oldPrice": "199",
+      "price": "99"
+    },
+    {
+      "id": 8,
+      "icon": "./img/jingDongMiaoSha-8.jpg",
+      "oldPrice": "199",
+      "price": "99"
+    },
+    {
+      "id": 9,
+      "icon": "./img/jingDongMiaoSha-9.jpg",
+      "oldPrice": "199",
+      "price": "99"
+    },
+    {
+      "id": 10,
+      "icon": "./img/haiTunQuanQiu-10.jpg",
+      "oldPrice": "199.0",
+      "price": "99.8"
+    }
+  ],
+  "goods": [
+    {
+      "detailImgs": [
+        "./img/goods/goods-detail-1-1.jpg",
+        "./img/goods/goods-detail-1-2.jpg",
+        "./img/goods/goods-detail-1-3.jpg",
+        "./img/goods/goods-detail-1-4.jpg",
+        "./img/goods/goods-detail-1-5.jpg",
+        "./img/goods/goods-detail-1-6.jpg"
+      ],
+      "img": "./img/goods/goods-1.jpg",
+      "isDirect": false,
+      "isHave": true,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": ["./img/goods/goods-swiper-1-1.webp.jpg", "./img/goods/goods-swiper-1-2.webp.jpg", "./img/goods/goods-swiper-1-3.webp.jpg", "./img/goods/goods-swiper-1-4.webp.jpg"],
+      "volume": "1453"
+    },
+    {
+      "detailImgs": [
+        "./img/goods/goods-detail-2-1.jpg",
+        "./img/goods/goods-detail-2-2.jpg",
+        "./img/goods/goods-detail-2-3.jpg",
+        "./img/goods/goods-detail-2-4.jpg",
+        "./img/goods/goods-detail-2-5.jpg",
+        "./img/goods/goods-detail-2-6.jpg",
+        "./img/goods/goods-detail-2-7.jpg"
+      ],
+      "img": "./img/goods/goods-2.jpg",
+      "isDirect": true,
+      "isHave": false,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "3800",
+      "swiperImgs": ["./img/goods/goods-swiper-2-1.webp.jpg", "./img/goods/goods-swiper-2-2.webp.jpg", "./img/goods/goods-swiper-2-3.webp.jpg", "./img/goods/goods-swiper-2-4.webp.jpg"],
+      "volume": "233"
+    },
+    {
+      "detailImgs": [
+        "./img/goods/goods-detail-3-1.jpg",
+        "./img/goods/goods-detail-3-2.jpg",
+        "./img/goods/goods-detail-3-3.jpg",
+        "./img/goods/goods-detail-3-4.jpg",
+        "./img/goods/goods-detail-3-5.jpg",
+        "./img/goods/goods-detail-3-6.jpg",
+        "./img/goods/goods-detail-3-7.jpg",
+        "./img/goods/goods-detail-3-8.jpg",
+        "./img/goods/goods-detail-3-9.jpg"
+      ],
+      "img": "./img/goods/goods-3.jpg",
+      "isDirect": false,
+      "isHave": true,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": ["./img/goods/goods-swiper-3-1.webp.jpg", "./img/goods/goods-swiper-3-2.webp.jpg", "./img/goods/goods-swiper-3-3.webp.jpg", "./img/goods/goods-swiper-3-4.webp.jpg"],
+      "volume": "143"
+    },
+    {
+      "detailImgs": [
+        "./img/goods/goods-detail-4-1.jpg",
+        "./img/goods/goods-detail-4-2.jpg",
+        "./img/goods/goods-detail-4-3.jpg",
+        "./img/goods/goods-detail-4-4.jpg",
+        "./img/goods/goods-detail-4-5.jpg",
+        "./img/goods/goods-detail-4-6.jpg",
+        "./img/goods/goods-detail-4-7.jpg",
+        "./img/goods/goods-detail-4-8.jpg",
+        "./img/goods/goods-detail-4-9.jpg"
+      ],
+      "img": "./img/goods/goods-4.jpg",
+      "isDirect": true,
+      "isHave": false,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "300",
+      "swiperImgs": ["./img/goods/goods-swiper-4-1.webp.jpg", "./img/goods/goods-swiper-4-2.webp.jpg", "./img/goods/goods-swiper-4-3.webp.jpg"],
+      "volume": "123"
+    },
+    {
+      "detailImgs": [],
+      "img": "./img/goods/goods-5.jpg",
+      "isDirect": false,
+      "isHave": true,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": [],
+      "volume": "143"
+    },
+    {
+      "detailImgs": [
+        "./img/goods/goods-detail-6-1.jpg",
+        "./img/goods/goods-detail-6-2.jpg",
+        "./img/goods/goods-detail-6-3.jpg",
+        "./img/goods/goods-detail-6-4.jpg",
+        "./img/goods/goods-detail-6-5.jpg",
+        "./img/goods/goods-detail-6-6.jpg"
+      ],
+      "img": "./img/goods/goods-6.jpg",
+      "isDirect": true,
+      "isHave": false,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": ["./img/goods/goods-swiper-6-1.webp.jpg", "./img/goods/goods-swiper-6-2.webp.jpg", "./img/goods/goods-swiper-6-3.webp.jpg"],
+      "volume": "133"
+    },
+    {
+      "detailImgs": [],
+      "img": "./img/goods/goods-7.jpg",
+      "isDirect": false,
+      "isHave": true,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": [],
+      "volume": "143"
+    },
+    {
+      "detailImgs": [
+        "./img/goods/goods-detail-8-1.jpg",
+        "./img/goods/goods-detail-8-2.jpg",
+        "./img/goods/goods-detail-8-3.jpg",
+        "./img/goods/goods-detail-8-4.jpg",
+        "./img/goods/goods-detail-8-5.jpg",
+        "./img/goods/goods-detail-8-6.jpg",
+        "./img/goods/goods-detail-8-7.jpg"
+      ],
+      "img": "./img/goods/goods-8.jpg",
+      "isDirect": false,
+      "isHave": false,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": ["./img/goods/goods-swiper-8-1.webp.jpg", "./img/goods/goods-swiper-8-2.webp.jpg", "./img/goods/goods-swiper-8-3.webp.jpg", "./img/goods/goods-swiper-8-4.webp.jpg"],
+      "volume": "163"
+    },
+    {
+      "detailImgs": [
+        "./img/goods/goods-detail-9-1.jpg",
+        "./img/goods/goods-detail-9-2.jpg",
+        "./img/goods/goods-detail-9-3.jpg",
+        "./img/goods/goods-detail-9-4.jpg",
+        "./img/goods/goods-detail-9-5.jpg",
+        "./img/goods/goods-detail-9-6.jpg",
+        "./img/goods/goods-detail-9-7.jpg"
+      ],
+      "img": "./img/goods/goods-9.jpg",
+      "isDirect": false,
+      "isHave": true,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": ["./img/goods/goods-swiper-9-1.webp.jpg", "./img/goods/goods-swiper-9-2.webp.jpg", "./img/goods/goods-swiper-9-3.webp.jpg", "./img/goods/goods-swiper-9-4.webp.jpg"],
+      "volume": "143"
+    },
+    {
+      "detailImgs": [],
+      "img": "./img/goods/goods-10.jpg",
+      "isDirect": true,
+      "isHave": false,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": [],
+      "volume": "143"
+    },
+    {
+      "detailImgs": [],
+      "img": "./img/goods/goods-11.jpg",
+      "isDirect": false,
+      "isHave": true,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": [],
+      "volume": "143"
+    },
+    {
+      "detailImgs": [],
+      "img": "./img/goods/goods-12.jpg",
+      "isDirect": true,
+      "isHave": false,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": [],
+      "volume": "143"
+    },
+    {
+      "detailImgs": [
+        "./img/goods/goods-detail-13-1.jpg",
+        "./img/goods/goods-detail-13-2.jpg",
+        "./img/goods/goods-detail-13-3.jpg",
+        "./img/goods/goods-detail-13-4.jpg",
+        "./img/goods/goods-detail-13-5.jpg",
+        "./img/goods/goods-detail-13-6.jpg"
+      ],
+      "img": "./img/goods/goods-13.jpg",
+      "isDirect": true,
+      "isHave": false,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": [
+        "./img/goods/goods-swiper-13-1.webp.jpg",
+        "./img/goods/goods-swiper-13-2.webp.jpg",
+        "./img/goods/goods-swiper-13-3.webp.jpg",
+        "./img/goods/goods-swiper-13-4.webp.jpg",
+        "./img/goods/goods-swiper-13-5.webp.jpg"
+      ],
+      "volume": "193"
+    },
+    {
+      "detailImgs": [],
+      "img": "./img/goods/goods-14.jpg",
+      "isDirect": true,
+      "isHave": true,
+      "name": "[二手95手机] 劳力士 日志姓系列 奢侈品18k白金男腕表",
+      "price": "38000",
+      "swiperImgs": [],
+      "volume": "13"
+    }
+  ]
+}

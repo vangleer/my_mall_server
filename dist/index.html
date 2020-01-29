@@ -1,0 +1,30 @@
+<!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel=icon href=favicon.ico><title>my_jd</title><link href=css/chunk-1603fe02.85ffd99a.css rel=prefetch><link href=css/chunk-279607d5.0fc4f271.css rel=prefetch><link href=css/chunk-5bc736e0.bdf6be84.css rel=prefetch><link href=css/chunk-73135fb6.87c548f8.css rel=prefetch><link href=css/chunk-77eb4973.9ca1bec4.css rel=prefetch><link href=js/chunk-1603fe02.1990a4b5.js rel=prefetch><link href=js/chunk-279607d5.44dd5016.js rel=prefetch><link href=js/chunk-5bc736e0.af5bf88e.js rel=prefetch><link href=js/chunk-73135fb6.f67a0386.js rel=prefetch><link href=js/chunk-77eb4973.a593b691.js rel=prefetch><link href=css/app.5f56e2f9.css rel=preload as=style><link href=css/chunk-vendors.c412edf5.css rel=preload as=style><link href=js/app.080e0e2c.js rel=preload as=script><link href=js/chunk-vendors.67406342.js rel=preload as=script><link href=css/chunk-vendors.c412edf5.css rel=stylesheet><link href=css/app.5f56e2f9.css rel=stylesheet></head><body><noscript><strong>We're sorry but my_jd doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script>// 动态调整rem
+      var html = document.documentElement
+      // 获取页面的宽度
+      var htmlWidth = html.offsetWidth
+      html.style.fontSize = htmlWidth / 18
+      window.onreset = function() {
+        // 动态调整rem
+        var html = document.documentElement
+        // 获取页面的宽度
+        var htmlWidth = html.offsetWidth
+        html.style.fontSize = htmlWidth / 18
+      }
+
+      // 滚动页面头部展示效果
+      window.onscroll = e => {
+        e = e || window.event
+        var header = document.querySelector('.nav-bar')
+        var bili = document.documentElement.scrollTop / 200
+        // 获取黑白返回键
+        var backBlack = header.querySelector('.back-black')
+        var backWhite = header.querySelector('.back-white')
+        if (document.documentElement.scrollTop > 200 || document.documentElement.scrollTop <= 0) return
+
+        if (document.documentElement.scrollTop < 200) {
+          if (backBlack) {
+            backBlack.style.opacity = 1 - bili
+          }
+          header.style.background = 'rgba(244,26,68,' + bili + ')'
+        }
+      }</script><script src=js/chunk-vendors.67406342.js></script><script src=js/app.080e0e2c.js></script></body></html>
